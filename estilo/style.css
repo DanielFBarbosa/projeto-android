@@ -189,7 +189,7 @@ aside > ul {
     list-style-position: inside;
     columns: 2;
     font-family: var(--fonte-padrao);
-    font-size: .9em;
+    font-size: .8em;
 }
 
 footer {
